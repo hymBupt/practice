@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SearchCountProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SearchCountProject_jar</output-path>
+    <root id="archive" name="SearchCountProject.jar">
+      <element id="module-output" name="SearchCountProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/poi-ooxml-schemas-3.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/junit-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/hadoop-common-2.6.0-cdh5.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/poi-3.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/commons-cli-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/hadoop-mapreduce-client-core-2.6.0-cdh5.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../任务1/lib/poi-ooxml-3.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
